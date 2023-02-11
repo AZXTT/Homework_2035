@@ -17,6 +17,9 @@ This repository is for stroing the tasks for the project 2035
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AZXTT&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)     ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
 
 
 
